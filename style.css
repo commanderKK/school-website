@@ -1,0 +1,16 @@
+body
+{
+    background-color: cadetblue;
+    text-align: center;
+}
+
+h2
+{
+    color: darkgreen;
+    text-align: center;
+}
+
+#marquee
+{
+    background-color: darkgreen;
+}
